@@ -1,16 +1,13 @@
-# dicee_flutter
+🎲 Dicee App
 
-A new Flutter project.
+A simple Flutter app that displays dice and updates their values when tapped.
 
-## Getting Started
+What I Learned
+	•	Importing Dart libraries (dart:math)
+	•	Using variables and generating random numbers
+	•	Writing functions to store logic and reuse them later for cleaner code
+	•	Handling user interactions with tap gestures
+	•	Updating the UI using setState()
+	•	Understanding Stateless vs Stateful widgets and how state controls UI changes
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Built as part of my Flutter learning journey
